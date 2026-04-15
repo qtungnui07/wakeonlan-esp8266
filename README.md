@@ -1,5 +1,9 @@
 ## Installation & Setup
-![Watch the video](/assets/video/test.mp4)
+
+
+https://github.com/user-attachments/assets/f473091c-4947-4ede-9f12-f1582e8a29d7
+
+
 To upload this code to your ESP8266, please follow these instructions:
 
 1. **Software Requirement**: Download and install the [Arduino IDE](https://www.arduino.cc/en/software/).
@@ -25,7 +29,7 @@ const char* ssid = "ten wifi";           // Replace with your WiFi Name
 const char* password = "pass wifi";       // Replace with your WiFi Password
 const char* pcIP = "ip pc";               // Your PC's local IP (e.g., 192.168.1.50)
 const char* pcMac = "mac cua LAN/wifi";   // Your PC's MAC address (e.g., AA:BB:CC:DD:EE:FF)
-
+```
 6. **Configuration**:
    * Select your board: `Tools > Board > NodeMCU 1.0 (ESP-12E Module)`.
    * Select the correct **Port** for your ESP8266. 
